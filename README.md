@@ -1,9 +1,12 @@
+
 ## Leonardo Carvalho 
 
 ## Data Scientist
 
 <p align='center'>
-    <img src='picture.png'<
+<div class="cat">
+    <img src="picture.jpeg" width=200px/>
+</div>
 </p>
 
 ### About Me
