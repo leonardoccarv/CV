@@ -21,7 +21,7 @@ I love what I do and I enjoy making things happen. This is me. I like to solve p
 * **Programming Language:** Python.
 * **Development:** Git and Github
 * **Data Vizualization:** Power BI, Google Data Studio, Matplotlib, Plotly and Seaborn
-* **Statistical Expertise:** Probability, Inference, Data Analysis and Econometrics
+* **Statistical Expertise:** Probability, Statistical Inference, Bayesian Inference, Data Analysis and Econometrics
 * **Machine Learning Modeling:** Classification, Regression, Clustering and Time Series
 * **Machine Learning Deployment:** Heroku and AWS Cloud
     
