@@ -17,7 +17,7 @@ I love what I do and I enjoy making things happen. This is me. I like to solve p
 
 **Analytical Tools:**
 
-* **Data Collect and Storage:** SQL, MySQL, Postgres and SQL Server.
+* **Data Collect and Storage:** SQL, MySQL, PostgreSQL and SQL Server.
 * **Programming Language:** Python.
 * **Development:** Git and Github
 * **Data Vizualization:** Power BI, Google Data Studio, Matplotlib, Plotly and Seaborn
