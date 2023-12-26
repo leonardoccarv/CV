@@ -18,12 +18,11 @@ I love what I do and I enjoy making things happen. This is me. I like to solve p
 **Analytical Tools:**
 
 * **Data Collect and Storage:** SQL, MySQL, PostgreSQL and SQL Server.
-* **Programming Language:** Python.
+* **Programming Language:** Python and R.
 * **Development:** Git and Github
-* **Data Vizualization:** Power BI, Google Data Studio, Matplotlib, Plotly and Seaborn
-* **Statistical Expertise:** Probability, Statistical Inference, Bayesian Inference, Data Analysis and Econometrics
-* **Machine Learning Modeling:** Classification, Regression, Clustering and Time Series
-* **Machine Learning Deployment:** Heroku and AWS Cloud
+* **Data Vizualization:** Power BI, Looker, Matplotlib, Plotly and Seaborn
+* **Machine Learning and Statistical Expertise:** Classification, Regression, Clustering, Probability, Statistical Inference, Bayesian Statistical, Data Analysis, Time Series Forecasting, Causal Inference, Bayesian Methods (Inference and Models), Dimensionality Reduction, Econometrics, Reinforcement Learning and Hypothesis Testing
+* **Machine Learning Deployment:** GCP and AWS Cloud
     
 **Where to Find Me:**
 
