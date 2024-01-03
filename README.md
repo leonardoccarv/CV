@@ -37,3 +37,7 @@ I love what I do and I enjoy making things happen. This is me. I like to solve p
 ### [Rossmann Company - Sales Prediction](https://github.com/leonardoccarv/sales-prediction)
   * The company is planning to renovate all of its stores and needs an estimate of each store's budget to make the best possible decisions in the renovation process. That's why we got the job done by the CFO to predict how much their stores will have sold by the end of the next six weeks. We received data on each of the 1,115 stores and their characteristics, along with the daily sales volume over a two-and-a-half year interval.
   * Repository: https://github.com/leonardoccarv/sales-prediction
+  
+  * ### [Churn Bank Detection](https://github.com/leonardoccarv/ChurnBankDetection)
+  * A bank manager is in a scenario where several customers are leaving their credit card services. It would be extremely interesting for the company to be able to predict the customers most likely to leave such services so that, in this way, the bank can act preventively in order to offer better services in favor of maintaining the customer. The data set has 10,000 customers with attributes such as age, salary, marital status, credit limit, card category, among others. There are approximately 18 features in the whole set and there are only 16.0% of customers with churn.
+  * Repository: https://github.com/leonardoccarv/ChurnBankDetection
