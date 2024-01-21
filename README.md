@@ -10,9 +10,7 @@
 </p>
 
 ### About Me
-I study Mathematics at the Federal University of Viçosa, I have been improving and deepening my knowledge in Data Science. I have already participated in extension courses at USP (University of São Paulo) and UFRJ (Federal University of Rio de Janeiro), both in the area of Probability and Statistics.
-
-I love what I do and I enjoy making things happen. This is me. I like to solve problems using data. I have produced Data Science projects in order to improve my knowledge.
+I study Mathematics at the Federal University of Viçosa, I have 4+ years of experience in Statistical Analysis, Probability and Machine Learning (Research, Graduation, Extension Courses and Real Problems). I like solving problems using data, challenging and collaborative environments. I love what I do and I like making things happen. This is me.
 
 
 **Analytical Tools:**
