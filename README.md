@@ -10,7 +10,7 @@
 </p>
 
 ### About Me
-I study Mathematics at the Federal University of Viçosa, I have 4+ years of experience in Statistical Analysis, Probability and Machine Learning (Research, Graduation, Extension Courses and Real Problems). I like solving problems using data, challenging and collaborative environments. I love what I do and I like making things happen. This is me.
+I study Mathematics at the Federal University of Viçosa, I have 4+ years of experience in Statistical Analysis, Probability and Machine Learning (Research, Graduation and Extension Courses) and +2 years  of experience in Real Problems. I like solving problems using data, challenging and collaborative environments. I love what I do and I like making things happen. This is me.
 
 
 **Analytical Tools:**
