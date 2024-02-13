@@ -10,17 +10,12 @@
 </p>
 
 ### About Me
-I study Mathematics at the Federal University of Viçosa, I have 4+ years of experience in Statistical Analysis, Probability and Machine Learning (Research, Graduation and Extension Courses) and +2 years  of experience in Real Problems. I like solving problems using data, challenging and collaborative environments. I love what I do and I like making things happen. This is me.
+I have 4+ years of experience in Statistical Analysis, Probability and Machine Learning (Research, BSc and Extension Courses). I like solving problems using data, challenging projects and collaborative environments. I love what I do and I like making things happen. This is me.
 
 
-**Analytical Tools:**
+* **Tools:** SQL, Python, R, Git, Github, Power BI, Looker, Docker, Apache Spark, Pyspark, Databricks, AWS Cloud, GCP and Excel
 
-* **Data Collect and Storage:** SQL, MySQL, PostgreSQL and SQL Server.
-* **Programming Language:** Python and R.
-* **Development:** Git and Github
-* **Data Vizualization:** Power BI, Looker, Matplotlib, Plotly and Seaborn
-* **Machine Learning and Statistical Expertise:** Classification, Regression, Clustering, Probability, Statistical Inference, Bayesian Statistical, Data Analysis, Time Series Forecasting, Causal Inference, Bayesian Methods (Inference and Models), Dimensionality Reduction, Econometrics, Reinforcement Learning and Hypothesis Testing
-* **Machine Learning Deployment:** GCP and AWS Cloud
+* **Machine Learning and Statistical Expertise:** Classification, Regression, Clustering, Probability, Data Analysis, Time Series Forecasting, Causal Inference, Bayesian Methods, Dimensionality Reduction, Econometrics and Hypothesis Testing
     
 **Where to Find Me:**
 
