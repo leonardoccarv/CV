@@ -41,5 +41,5 @@ I study Mathematics at the Federal University of Viçosa, I have 4+ years of exp
   * Repository: https://github.com/leonardoccarv/ChurnBankDetection
 
 ### [Netflix Clustering](https://github.com/leonardoccarv/NetflixClustering)
-  *Perform an analysis of Netflix data in order to extract insights for decision making in addition to grouping based on the IMDB Score and the popularity of the title.
+  * Perform an analysis of Netflix data in order to extract insights for decision making in addition to grouping based on the IMDB Score and the popularity of the title.
   * Repository:https://github.com/leonardoccarv/NetflixClustering
