@@ -35,6 +35,6 @@ I am Data Scientist with experience in Statistical Analysis, Probability and Mac
   * A bank manager is in a scenario where several customers are leaving their credit card services. It would be extremely interesting for the company to be able to predict the customers most likely to leave such services so that, in this way, the bank can act preventively in order to offer better services in favor of maintaining the customer. The data set has 10,000 customers with attributes such as age, salary, marital status, credit limit, card category, among others. There are approximately 18 features in the whole set and there are only 16.0% of customers with churn.
   * Repository: https://github.com/leonardoccarv/ChurnBankDetection
 
-### [Netflix Clustering](https://github.com/leonardoccarv/NetflixClustering)
+### [Netflix Insights](https://github.com/leonardoccarv/NetflixClustering)
   * Perform an analysis of Netflix data in order to extract insights for decision making in addition to grouping based on the IMDB Score and the popularity of the title.
   * Repository:https://github.com/leonardoccarv/NetflixClustering
