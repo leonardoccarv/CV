@@ -10,12 +10,11 @@
 </p>
 
 ### About Me
-I have 4+ years of experience in Statistical Analysis, Probability and Machine Learning (Research, BSc and Extension Courses). I like solving problems using data, challenging projects and collaborative environments. I love what I do and I like making things happen. This is me.
+I am Data Scientist with experience in Statistical Analysis, Probability and Machine Learning (Research, Bachelor's Extension Courses and Portifolio Projects). I like challenging projects, collaborative environments and solving problems using data always seeking the greatest impact on the business and the customer. I love what I do and I like making things happen. This is me.
 
+* **Tools:** SQL, Python, R, Git/Github, Power BI, Looker, Docker, Apache Spark, Pyspark, Databricks, AWS Cloud, GCP and Excel
 
-* **Tools:** SQL, Python, R, Git, Github, Power BI, Looker, Docker, Apache Spark, Pyspark, Databricks, AWS Cloud, GCP and Excel
-
-* **Machine Learning and Statistical Expertise:** Classification, Regression, Clustering, Probability, Data Analysis, Time Series Forecasting, Causal Inference, Bayesian Methods, Dimensionality Reduction, Econometrics and Hypothesis Testing
+* **Machine Learning and Statistical Expertise:** Supervised Learning, Unsupervised learning, Probability, Reinforcement Learning, Data Analysis, Time Series Forecasting, Causal Inference, Bayesian Methods, Dimensionality Reduction, Econometrics and Hypothesis Testing
     
 **Where to Find Me:**
 
