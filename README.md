@@ -18,7 +18,7 @@ I am Data Scientist with experience in Statistical Analysis, Probability and Mac
     
 **Where to Find Me:**
 
-* [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-carvalho-a05408201/)](https://www.linkedin.com/in/leonardo-carvalho-a05408201/)
+* [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-carvalho1/)
 * [![Gmail Badge](https://img.shields.io/badge/-leofacebook17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leofacebook17@gmail.com)](mailto:leofacebook17@gmail.com)
 * [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@leonardoccarv)
 
